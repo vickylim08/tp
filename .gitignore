@@ -36,3 +36,6 @@ CLAUDE.md
 # Temp files
 _temp/
 docs/_markbind/logs/
+
+.agents/
+skills-lock.json
